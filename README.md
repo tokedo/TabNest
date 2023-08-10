@@ -1,6 +1,6 @@
 # TabNest
 
-Save multiple tabs for later and reopen them with a single click. Available from Chrome Web Store: [link](https://chromewebstore.google.com/detail/gplhcnbpmokcnjhhcbhfjgdnpdjgoadk).
+Save multiple tabs for later and reopen them with a single click. Available from Chrome Web Store: [link](https://chrome.google.com/webstore/detail/tabnest/gplhcnbpmokcnjhhcbhfjgdnpdjgoadk).
 
 ## About TabNest
 
