@@ -1,6 +1,6 @@
 # TabNest
 
-Save multiple tabs for later and reopen them with a single click.
+Save multiple tabs for later and reopen them with a single click. Available from Chrome Web Store: [link](https://chromewebstore.google.com/detail/gplhcnbpmokcnjhhcbhfjgdnpdjgoadk).
 
 ## About TabNest
 
@@ -14,10 +14,6 @@ With one click the extension saves all tabs and groups in the active window and 
 -   Reopen saved tabs in a new window with a single click. TabNest saves and stores the exact tabs and groups configurations from when it was saved, icluding groups name, color, collapse status and active tab.
 -   Update, rename, and delete saved links.
 -   Sync saved tabs across devices using Chrome account storage.
-
-## Installation
-
-Install from Chrome Web Store: [link](https://chromewebstore.google.com/detail/gplhcnbpmokcnjhhcbhfjgdnpdjgoadk).
 
 ## Usage
 
