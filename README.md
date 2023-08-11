@@ -1,3 +1,5 @@
+![TabNest logo](https://raw.githubusercontent.com/tokedo/tabnest/master/icon128.png)
+
 # TabNest
 
 Save multiple tabs for later and reopen them with a single click. Available from Chrome Web Store: [link](https://chrome.google.com/webstore/detail/tabnest/gplhcnbpmokcnjhhcbhfjgdnpdjgoadk).
